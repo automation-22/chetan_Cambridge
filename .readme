@@ -1,0 +1,22 @@
+This Framework has developed for UI TestAutomation using BDD Cucumber
+
+Feature has contains two scenario.
+1. Navigation to register screen and enter details in few of the fields
+2. Search course and match the result count
+
+Based on yes/on selection, it displays different results for help
+
+Pre-Requisite Software:
+JDK8
+Maven
+Eclipse/Intellij
+
+Config File Path to update browser:
+resources/propertiesfile/config.properties
+
+Execution Steps:
+Run "mvn test" command from project directory
+
+Report Directory:
+target/Extent_Reports/report.html
+

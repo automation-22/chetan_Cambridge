@@ -1,0 +1,119 @@
+2022-08-22 19:08:126 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-08-22 19:08:68 INFO  CoursePage :73 - I search for course : [[ChromeDriver: chrome on WINDOWS (86d44b73b389e31a10921cf3a741fc2e)] -> id: edit-freetext]
+2022-08-22 19:08:170 INFO  CoursePage :68 - I click on search button : [[ChromeDriver: chrome on WINDOWS (86d44b73b389e31a10921cf3a741fc2e)] -> id: edit-submit]
+2022-08-22 20:08:615 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-08-22 20:08:410 INFO  CoursePage :73 - I search for course : [[ChromeDriver: chrome on WINDOWS (b617f4d5d23f4adb312af7bc451ff763)] -> id: edit-freetext]
+2022-08-22 20:08:543 INFO  CoursePage :68 - I click on search button : [[ChromeDriver: chrome on WINDOWS (b617f4d5d23f4adb312af7bc451ff763)] -> id: edit-submit]
+2022-08-22 20:08:796 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-08-22 20:08:588 INFO  CoursePage :78 - I click on apply button : [[ChromeDriver: chrome on WINDOWS (63cbd0d12077868549bfcdfd9299b081)] -> class: campl-primary-cta]
+2022-08-22 20:08:265 INFO  LoginPage :25 - I click on register button : [[ChromeDriver: chrome on WINDOWS (63cbd0d12077868549bfcdfd9299b081)] -> id: iceForm:register]
+2022-08-22 20:08:418 INFO  RegisterPage :111 - I enter first name : [[ChromeDriver: chrome on WINDOWS (63cbd0d12077868549bfcdfd9299b081)] -> xpath: //input[contains(@id,'forename')]]
+2022-08-22 20:08:454 INFO  RegisterPage :74 - I select day : [[ChromeDriver: chrome on WINDOWS (63cbd0d12077868549bfcdfd9299b081)] -> xpath: //div[@id='iceForm:well:dateOfBirth:dateOfBirthDay']]
+2022-08-22 20:08:293 INFO  RegisterPage :69 - I select month : [[ChromeDriver: chrome on WINDOWS (63cbd0d12077868549bfcdfd9299b081)] -> xpath: //div[@id='iceForm:well:dateOfBirth:dateOfBirthMonth']]
+2022-08-22 20:08:128 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-08-22 20:08:231 INFO  CoursePage :78 - I click on apply button : [[ChromeDriver: chrome on WINDOWS (a94335abd5952fe89c20b04510ad4867)] -> class: campl-primary-cta]
+2022-08-22 20:08:942 INFO  LoginPage :25 - I click on register button : [[ChromeDriver: chrome on WINDOWS (a94335abd5952fe89c20b04510ad4867)] -> id: iceForm:register]
+2022-08-22 20:08:83 INFO  RegisterPage :112 - I enter first name : [[ChromeDriver: chrome on WINDOWS (a94335abd5952fe89c20b04510ad4867)] -> xpath: //input[contains(@id,'forename')]]
+2022-08-22 20:08:116 INFO  RegisterPage :74 - I select day : [[ChromeDriver: chrome on WINDOWS (a94335abd5952fe89c20b04510ad4867)] -> xpath: //div[@id='iceForm:well:dateOfBirth:dateOfBirthDay']]
+2022-08-22 20:08:347 INFO  RegisterPage :69 - I select month : [[ChromeDriver: chrome on WINDOWS (a94335abd5952fe89c20b04510ad4867)] -> xpath: //div[@id='iceForm:well:dateOfBirth:dateOfBirthMonth']]
+2022-08-22 20:08:777 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-08-22 20:08:439 INFO  CoursePage :73 - I search for course : [[ChromeDriver: chrome on WINDOWS (58371bf9537f0aeada90c600caf9ef36)] -> id: edit-freetext]
+2022-08-22 20:08:578 INFO  CoursePage :68 - I click on search button : [[ChromeDriver: chrome on WINDOWS (58371bf9537f0aeada90c600caf9ef36)] -> id: edit-submit]
+2022-08-22 20:08:244 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-08-22 20:08:639 INFO  CoursePage :78 - I click on apply button : [[ChromeDriver: chrome on WINDOWS (b4f8376d3227d9bd154ce79992e49661)] -> class: campl-primary-cta]
+2022-08-22 20:08:380 INFO  LoginPage :25 - I click on register button : [[ChromeDriver: chrome on WINDOWS (b4f8376d3227d9bd154ce79992e49661)] -> id: iceForm:register]
+2022-08-22 20:08:564 INFO  RegisterPage :134 - I enter first name : [[ChromeDriver: chrome on WINDOWS (b4f8376d3227d9bd154ce79992e49661)] -> xpath: //input[contains(@id,'forename')]]
+2022-08-22 20:08:605 INFO  RegisterPage :96 - I select day : [[ChromeDriver: chrome on WINDOWS (b4f8376d3227d9bd154ce79992e49661)] -> xpath: //div[@id='iceForm:well:dateOfBirth:dateOfBirthDay']]
+2022-08-22 20:08:856 INFO  RegisterPage :80 - I select month : [[ChromeDriver: chrome on WINDOWS (b4f8376d3227d9bd154ce79992e49661)] -> xpath: //div[@id='iceForm:well:dateOfBirth:dateOfBirthMonth']]
+2022-08-22 20:08:326 INFO  RegisterPage :64 - I select year : [[ChromeDriver: chrome on WINDOWS (b4f8376d3227d9bd154ce79992e49661)] -> xpath: //div[@id='iceForm:well:dateOfBirth:dateOfBirthYear']]
+2022-08-22 20:08:984 INFO  RegisterPage :60 - I click on register button : [[ChromeDriver: chrome on WINDOWS (b4f8376d3227d9bd154ce79992e49661)] -> xpath: //span[text()='Register']]
+2022-08-22 20:08:112 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-08-22 20:08:92 INFO  CoursePage :73 - I search for course : [[ChromeDriver: chrome on WINDOWS (67c0c34b74bfb4cddc30d4a19f073957)] -> id: edit-freetext]
+2022-08-22 20:08:214 INFO  CoursePage :68 - I click on search button : [[ChromeDriver: chrome on WINDOWS (67c0c34b74bfb4cddc30d4a19f073957)] -> id: edit-submit]
+2022-08-22 20:08:480 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-08-22 20:08:989 INFO  CoursePage :78 - I click on apply button : [[ChromeDriver: chrome on WINDOWS (504722620079053cfc6170678d79e75b)] -> class: campl-primary-cta]
+2022-08-22 20:08:628 INFO  LoginPage :25 - I click on register button : [[ChromeDriver: chrome on WINDOWS (504722620079053cfc6170678d79e75b)] -> id: iceForm:register]
+2022-08-22 20:08:795 INFO  RegisterPage :134 - I enter first name : [[ChromeDriver: chrome on WINDOWS (504722620079053cfc6170678d79e75b)] -> xpath: //input[contains(@id,'forename')]]
+2022-08-22 20:08:840 INFO  RegisterPage :96 - I select day : [[ChromeDriver: chrome on WINDOWS (504722620079053cfc6170678d79e75b)] -> xpath: //div[@id='iceForm:well:dateOfBirth:dateOfBirthDay']]
+2022-08-22 20:08:898 INFO  RegisterPage :80 - I select month : [[ChromeDriver: chrome on WINDOWS (504722620079053cfc6170678d79e75b)] -> xpath: //div[@id='iceForm:well:dateOfBirth:dateOfBirthMonth']]
+2022-08-22 20:08:195 INFO  RegisterPage :64 - I select year : [[ChromeDriver: chrome on WINDOWS (504722620079053cfc6170678d79e75b)] -> xpath: //div[@id='iceForm:well:dateOfBirth:dateOfBirthYear']]
+2022-08-22 20:08:850 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-08-22 20:08:175 INFO  CoursePage :73 - I search for course : [[ChromeDriver: chrome on WINDOWS (aed66c12221849b6402c9ffe7156ef1e)] -> id: edit-freetext]
+2022-08-22 20:08:310 INFO  CoursePage :68 - I click on search button : [[ChromeDriver: chrome on WINDOWS (aed66c12221849b6402c9ffe7156ef1e)] -> id: edit-submit]
+2022-08-22 20:08:212 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-08-22 20:08:865 INFO  CoursePage :78 - I click on apply button : [[ChromeDriver: chrome on WINDOWS (2aee1eb9c95ec7a083eefbe3eaddcd07)] -> class: campl-primary-cta]
+2022-08-22 20:08:565 INFO  LoginPage :25 - I click on register button : [[ChromeDriver: chrome on WINDOWS (2aee1eb9c95ec7a083eefbe3eaddcd07)] -> id: iceForm:register]
+2022-08-22 20:08:725 INFO  RegisterPage :134 - I enter first name : [[ChromeDriver: chrome on WINDOWS (2aee1eb9c95ec7a083eefbe3eaddcd07)] -> xpath: //input[contains(@id,'forename')]]
+2022-08-22 20:08:760 INFO  RegisterPage :96 - I select day : [[ChromeDriver: chrome on WINDOWS (2aee1eb9c95ec7a083eefbe3eaddcd07)] -> xpath: //div[@id='iceForm:well:dateOfBirth:dateOfBirthDay']]
+2022-08-22 20:08:59 INFO  RegisterPage :80 - I select month : [[ChromeDriver: chrome on WINDOWS (2aee1eb9c95ec7a083eefbe3eaddcd07)] -> xpath: //div[@id='iceForm:well:dateOfBirth:dateOfBirthMonth']]
+2022-08-22 20:08:388 INFO  RegisterPage :64 - I select year : [[ChromeDriver: chrome on WINDOWS (2aee1eb9c95ec7a083eefbe3eaddcd07)] -> xpath: //div[@id='iceForm:well:dateOfBirth:dateOfBirthYear']]
+2022-08-22 20:08:977 INFO  RegisterPage :60 - I click on register button : [[ChromeDriver: chrome on WINDOWS (2aee1eb9c95ec7a083eefbe3eaddcd07)] -> xpath: //span[text()='Register']]
+2022-08-22 20:08:65 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-08-22 20:08:405 INFO  CoursePage :73 - I search for course : [[ChromeDriver: chrome on WINDOWS (a6d2edf5397239f64ed9d04715a8fe80)] -> id: edit-freetext]
+2022-08-22 20:08:536 INFO  CoursePage :68 - I click on search button : [[ChromeDriver: chrome on WINDOWS (a6d2edf5397239f64ed9d04715a8fe80)] -> id: edit-submit]
+2022-08-22 20:08:399 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-08-22 20:08:339 INFO  CoursePage :78 - I click on apply button : [[ChromeDriver: chrome on WINDOWS (56ce8d023631f9b1ef2ac48db88df688)] -> class: campl-primary-cta]
+2022-08-22 20:08:165 INFO  LoginPage :25 - I click on register button : [[ChromeDriver: chrome on WINDOWS (56ce8d023631f9b1ef2ac48db88df688)] -> id: iceForm:register]
+2022-08-22 20:08:441 INFO  RegisterPage :134 - I enter first name : [[ChromeDriver: chrome on WINDOWS (56ce8d023631f9b1ef2ac48db88df688)] -> xpath: //input[contains(@id,'forename')]]
+2022-08-22 20:08:478 INFO  RegisterPage :96 - I select day : [[ChromeDriver: chrome on WINDOWS (56ce8d023631f9b1ef2ac48db88df688)] -> xpath: //div[@id='iceForm:well:dateOfBirth:dateOfBirthDay']]
+2022-08-22 20:08:867 INFO  RegisterPage :80 - I select month : [[ChromeDriver: chrome on WINDOWS (56ce8d023631f9b1ef2ac48db88df688)] -> xpath: //div[@id='iceForm:well:dateOfBirth:dateOfBirthMonth']]
+2022-08-22 20:08:114 INFO  RegisterPage :64 - I select year : [[ChromeDriver: chrome on WINDOWS (56ce8d023631f9b1ef2ac48db88df688)] -> xpath: //div[@id='iceForm:well:dateOfBirth:dateOfBirthYear']]
+2022-08-22 20:08:518 INFO  RegisterPage :60 - I click on register button : [[ChromeDriver: chrome on WINDOWS (56ce8d023631f9b1ef2ac48db88df688)] -> xpath: //span[text()='Register']]
+2022-08-22 20:08:508 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-08-22 20:08:465 INFO  CoursePage :73 - I search for course : [[ChromeDriver: chrome on WINDOWS (063e282a434ed26538c24eb419b348eb)] -> id: edit-freetext]
+2022-08-22 20:08:616 INFO  CoursePage :68 - I click on search button : [[ChromeDriver: chrome on WINDOWS (063e282a434ed26538c24eb419b348eb)] -> id: edit-submit]
+2022-08-22 21:08:737 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-08-22 21:08:169 INFO  CoursePage :74 - I click on apply button : [[ChromeDriver: chrome on WINDOWS (55bfb5871d7ee72318ee234001f806de)] -> class: campl-primary-cta]
+2022-08-22 21:08:290 INFO  LoginPage :25 - I click on register button : [[ChromeDriver: chrome on WINDOWS (55bfb5871d7ee72318ee234001f806de)] -> id: iceForm:register]
+2022-08-22 21:08:671 INFO  RegisterPage :134 - I enter first name : [[ChromeDriver: chrome on WINDOWS (55bfb5871d7ee72318ee234001f806de)] -> xpath: //input[contains(@id,'forename')]]
+2022-08-22 21:08:732 INFO  RegisterPage :96 - I select day : [[ChromeDriver: chrome on WINDOWS (55bfb5871d7ee72318ee234001f806de)] -> xpath: //div[@id='iceForm:well:dateOfBirth:dateOfBirthDay']]
+2022-08-22 21:08:182 INFO  RegisterPage :80 - I select month : [[ChromeDriver: chrome on WINDOWS (55bfb5871d7ee72318ee234001f806de)] -> xpath: //div[@id='iceForm:well:dateOfBirth:dateOfBirthMonth']]
+2022-08-22 21:08:815 INFO  RegisterPage :64 - I select year : [[ChromeDriver: chrome on WINDOWS (55bfb5871d7ee72318ee234001f806de)] -> xpath: //div[@id='iceForm:well:dateOfBirth:dateOfBirthYear']]
+2022-08-22 21:08:504 INFO  RegisterPage :60 - I click on register button : [[ChromeDriver: chrome on WINDOWS (55bfb5871d7ee72318ee234001f806de)] -> xpath: //span[text()='Register']]
+2022-08-22 21:08:344 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-08-22 21:08:590 INFO  CoursePage :69 - I search for course : [[ChromeDriver: chrome on WINDOWS (a2c60ce3d5726e8f42ce1427d22fb5e2)] -> id: edit-freetext]
+2022-08-22 21:08:772 INFO  CoursePage :64 - I click on search button : [[ChromeDriver: chrome on WINDOWS (a2c60ce3d5726e8f42ce1427d22fb5e2)] -> id: edit-submit]
+2022-08-22 21:08:710 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-08-22 21:08:158 INFO  CoursePage :74 - I click on apply button : [[ChromeDriver: chrome on WINDOWS (f43d62d94f0f86c598e11f214c1b0515)] -> class: campl-primary-cta]
+2022-08-22 21:08:232 INFO  LoginPage :25 - I click on register button : [[ChromeDriver: chrome on WINDOWS (f43d62d94f0f86c598e11f214c1b0515)] -> id: iceForm:register]
+2022-08-22 21:08:508 INFO  RegisterPage :134 - I enter first name : [[ChromeDriver: chrome on WINDOWS (f43d62d94f0f86c598e11f214c1b0515)] -> xpath: //input[contains(@id,'forename')]]
+2022-08-22 21:08:561 INFO  RegisterPage :96 - I select day : [[ChromeDriver: chrome on WINDOWS (f43d62d94f0f86c598e11f214c1b0515)] -> xpath: //div[@id='iceForm:well:dateOfBirth:dateOfBirthDay']]
+2022-08-22 21:08:23 INFO  RegisterPage :80 - I select month : [[ChromeDriver: chrome on WINDOWS (f43d62d94f0f86c598e11f214c1b0515)] -> xpath: //div[@id='iceForm:well:dateOfBirth:dateOfBirthMonth']]
+2022-08-22 21:08:659 INFO  RegisterPage :64 - I select year : [[ChromeDriver: chrome on WINDOWS (f43d62d94f0f86c598e11f214c1b0515)] -> xpath: //div[@id='iceForm:well:dateOfBirth:dateOfBirthYear']]
+2022-08-22 21:08:276 INFO  RegisterPage :60 - I click on register button : [[ChromeDriver: chrome on WINDOWS (f43d62d94f0f86c598e11f214c1b0515)] -> xpath: //span[text()='Register']]
+2022-08-22 21:08:534 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-08-22 21:08:289 INFO  CoursePage :69 - I search for course : [[ChromeDriver: chrome on WINDOWS (f6964bde96c3e53fa9558e164a587788)] -> id: edit-freetext]
+2022-08-22 21:08:496 INFO  CoursePage :64 - I click on search button : [[ChromeDriver: chrome on WINDOWS (f6964bde96c3e53fa9558e164a587788)] -> id: edit-submit]
+2022-08-22 21:08:844 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-08-22 21:08:737 INFO  CoursePage :75 - I click on apply button : [[ChromeDriver: chrome on WINDOWS (29713650214c1da538e47ae3deb36117)] -> class: campl-primary-cta]
+2022-08-22 21:08:684 INFO  LoginPage :25 - I click on register button : [[ChromeDriver: chrome on WINDOWS (29713650214c1da538e47ae3deb36117)] -> id: iceForm:register]
+2022-08-22 21:08:936 INFO  RegisterPage :134 - I enter first name : [[ChromeDriver: chrome on WINDOWS (29713650214c1da538e47ae3deb36117)] -> xpath: //input[contains(@id,'forename')]]
+2022-08-22 21:08:977 INFO  RegisterPage :96 - I select day : [[ChromeDriver: chrome on WINDOWS (29713650214c1da538e47ae3deb36117)] -> xpath: //div[@id='iceForm:well:dateOfBirth:dateOfBirthDay']]
+2022-08-22 21:08:346 INFO  RegisterPage :80 - I select month : [[ChromeDriver: chrome on WINDOWS (29713650214c1da538e47ae3deb36117)] -> xpath: //div[@id='iceForm:well:dateOfBirth:dateOfBirthMonth']]
+2022-08-22 21:08:919 INFO  RegisterPage :64 - I select year : [[ChromeDriver: chrome on WINDOWS (29713650214c1da538e47ae3deb36117)] -> xpath: //div[@id='iceForm:well:dateOfBirth:dateOfBirthYear']]
+2022-08-22 21:08:503 INFO  RegisterPage :60 - I click on register button : [[ChromeDriver: chrome on WINDOWS (29713650214c1da538e47ae3deb36117)] -> xpath: //span[text()='Register']]
+2022-08-22 21:08:828 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-08-22 21:08:933 INFO  CoursePage :70 - I search for course : [[ChromeDriver: chrome on WINDOWS (aebd8ff06ea4b9c96a7d97db223932e0)] -> id: edit-freetext]
+2022-08-22 21:08:118 INFO  CoursePage :65 - I click on search button : [[ChromeDriver: chrome on WINDOWS (aebd8ff06ea4b9c96a7d97db223932e0)] -> id: edit-submit]
+2022-08-22 21:08:331 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-08-22 21:08:139 INFO  CoursePage :75 - I click on apply button : [[ChromeDriver: chrome on WINDOWS (7c87280c283a334965e4b730ae242d28)] -> class: campl-primary-cta]
+2022-08-22 21:08:185 INFO  LoginPage :25 - I click on register button : [[ChromeDriver: chrome on WINDOWS (7c87280c283a334965e4b730ae242d28)] -> id: iceForm:register]
+2022-08-22 21:08:525 INFO  RegisterPage :134 - I enter first name : [[ChromeDriver: chrome on WINDOWS (7c87280c283a334965e4b730ae242d28)] -> xpath: //input[contains(@id,'forename')]]
+2022-08-22 21:08:582 INFO  RegisterPage :96 - I select day : [[ChromeDriver: chrome on WINDOWS (7c87280c283a334965e4b730ae242d28)] -> xpath: //div[@id='iceForm:well:dateOfBirth:dateOfBirthDay']]
+2022-08-22 21:08:969 INFO  RegisterPage :80 - I select month : [[ChromeDriver: chrome on WINDOWS (7c87280c283a334965e4b730ae242d28)] -> xpath: //div[@id='iceForm:well:dateOfBirth:dateOfBirthMonth']]
+2022-08-22 21:08:556 INFO  RegisterPage :64 - I select year : [[ChromeDriver: chrome on WINDOWS (7c87280c283a334965e4b730ae242d28)] -> xpath: //div[@id='iceForm:well:dateOfBirth:dateOfBirthYear']]
+2022-08-22 21:08:286 INFO  RegisterPage :60 - I click on register button : [[ChromeDriver: chrome on WINDOWS (7c87280c283a334965e4b730ae242d28)] -> xpath: //span[text()='Register']]
+2022-08-22 21:08:721 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-08-22 21:08:18 INFO  CoursePage :70 - I search for course : [[ChromeDriver: chrome on WINDOWS (13880e77ea0afb7e8394248fb4d927c0)] -> id: edit-freetext]
+2022-08-22 21:08:199 INFO  CoursePage :65 - I click on search button : [[ChromeDriver: chrome on WINDOWS (13880e77ea0afb7e8394248fb4d927c0)] -> id: edit-submit]
+2022-08-22 21:08:645 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-08-22 21:08:478 INFO  CoursePage :75 - I click on apply button : [[ChromeDriver: chrome on WINDOWS (c29a7d906879b736d3b8bdc254f409e6)] -> class: campl-primary-cta]
+2022-08-22 21:08:689 INFO  LoginPage :25 - I click on register button : [[ChromeDriver: chrome on WINDOWS (c29a7d906879b736d3b8bdc254f409e6)] -> id: iceForm:register]
+2022-08-22 21:08:983 INFO  RegisterPage :134 - I enter first name : [[ChromeDriver: chrome on WINDOWS (c29a7d906879b736d3b8bdc254f409e6)] -> xpath: //input[contains(@id,'forename')]]
+2022-08-22 21:08:32 INFO  RegisterPage :96 - I select day : [[ChromeDriver: chrome on WINDOWS (c29a7d906879b736d3b8bdc254f409e6)] -> xpath: //div[@id='iceForm:well:dateOfBirth:dateOfBirthDay']]
+2022-08-22 21:08:445 INFO  RegisterPage :80 - I select month : [[ChromeDriver: chrome on WINDOWS (c29a7d906879b736d3b8bdc254f409e6)] -> xpath: //div[@id='iceForm:well:dateOfBirth:dateOfBirthMonth']]
+2022-08-22 21:08:43 INFO  RegisterPage :64 - I select year : [[ChromeDriver: chrome on WINDOWS (c29a7d906879b736d3b8bdc254f409e6)] -> xpath: //div[@id='iceForm:well:dateOfBirth:dateOfBirthYear']]
+2022-08-22 21:08:687 INFO  RegisterPage :60 - I click on register button : [[ChromeDriver: chrome on WINDOWS (c29a7d906879b736d3b8bdc254f409e6)] -> xpath: //span[text()='Register']]
+2022-08-22 21:08:983 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-08-22 21:08:797 INFO  CoursePage :70 - I search for course : [[ChromeDriver: chrome on WINDOWS (bcc6b86be3ab51be939dfc7cb88db819)] -> id: edit-freetext]
+2022-08-22 21:08:977 INFO  CoursePage :65 - I click on search button : [[ChromeDriver: chrome on WINDOWS (bcc6b86be3ab51be939dfc7cb88db819)] -> id: edit-submit]
